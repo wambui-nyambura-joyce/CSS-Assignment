@@ -1,0 +1,10 @@
+.outer-div{
+    border-style: dotted;
+    background-color: blue;
+}
+.inner-div{
+    border: 1px solid;
+    background-color: chocolate;
+    padding: 20px;
+    margin: 5%;
+}
